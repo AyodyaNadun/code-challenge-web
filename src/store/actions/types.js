@@ -1,0 +1,6 @@
+export const GET_ERROR = 'GET_ERROR'
+export const SET_CURRENT_USER = 'SET_CURRENT_USER'
+export const SET_USER_TOKEN = 'SET_USER_TOKEN'
+export const SEARCH_DATA = 'SEARCH_DATA'
+export const TABLE_FIELD = 'TABLE_FIELD'
+export const PAGE_COUNT = 'PAGE_COUNT'
