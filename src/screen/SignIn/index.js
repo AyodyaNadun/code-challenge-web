@@ -42,11 +42,11 @@ const SignIn = (props) => {
                             <form class="ui form" onSubmit={sumbit}>
                                 <div class="field">
                                     <label>Username</label>
-                                    <input type="text" name="user" placeholder="User" />
+                                    <input type="text" name="user" placeholder="Enter username..." />
                                 </div>
                                 <div class="field">
                                     <label>Password</label>
-                                    <input type="password" name="pass" placeholder="Password" />
+                                    <input type="password" name="pass" placeholder="Enter password..." />
                                 </div>
                                 <button class="ui primary labeled icon button" type="submit">
                                     <i class="unlock alternate icon"></i>
